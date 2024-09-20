@@ -7,6 +7,8 @@
 - ⚡ Fun fact: ...
 - Este en un landing las paginas que siven son la de ropa de bebe y el contactanos, el logo de siman sive para poder
 - volver al inicio
+- al landing le funciona elapartado pra ropa de bebe y el contactanos el icono sive para volver al inicio, para ir a al ropa
+de bebe es dando clic a la parte de los accesior del bebe del inicio
 
 <!---
 22Wilber22/22Wilber22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
